@@ -3,7 +3,7 @@ package operator
 import (
 	"context"
 
-	pb "operator/rpc/operator/rpc/checkoperator"
+	pb "github.com/starling-foundries/Sloppy/checkoperator"
 
 	"github.com/twitchtv/twirp"
 )
