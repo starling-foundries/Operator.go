@@ -3,7 +3,7 @@ package operator
 import (
 	"context"
 
-	pb "github.com/starling-foundries/Sloppy/checkoperator"
+	pb "github.com/starling-foundries/Operator.go/rpc/checkoperator"
 
 	"github.com/twitchtv/twirp"
 )
